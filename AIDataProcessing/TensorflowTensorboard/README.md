@@ -32,4 +32,4 @@ Together, TensorFlow and TensorBoard provide a complete ecosystem for developing
 
 ## Cheatsheets :
 
-### <a href="https://zerotomastery.io/cheatsheets/tensorflow-cheat-sheet/" target="_blank">ZTM's TensorFlow Long cheatsheet</a>
+### [ZTM's TensorFlow Long cheatsheet](https://zerotomastery.io/cheatsheets/tensorflow-cheat-sheet/)

@@ -31,4 +31,4 @@ PyTorch is known for its simplicity and flexibility, making it a go-to framework
 
 ## Cheatsheets :
 
-### <a href="https://pytorch.org/tutorials/beginner/ptcheat.html" target="_blank">Pytorch's website has a good one</a>
+### [Pytorch's website has a good one](https://pytorch.org/tutorials/beginner/ptcheat.html)
