@@ -4,9 +4,9 @@
 
 #### [AI & Data Processing (empty for now)](https://github.com/DeusExAliquo/PythonCollection/blob/main/AIDataProcessing/README.md)
 
-#### Database (empty for now)
+#### [Database (empty for now)](https://github.com/DeusExAliquo/PythonCollection/blob/main/Database/README.md)
 
-#### WebScrapping (empty for now)
+#### [WebScrapping (empty for now)](https://github.com/DeusExAliquo/PythonCollection/blob/main/WebScrapping/README.md)
 
 ## Python cheatsheets I use if needed :
 
