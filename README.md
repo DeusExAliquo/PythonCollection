@@ -2,7 +2,7 @@
 ## A collection of stuff I know in Python, cheatsheets and projects (I mostly have cheatsheets for now though)
 ### Everything will be organized in subjects and sub-subjects, every subjects should have their own readme as well, if I remember they should have at least.
 
-#### [AI & Data Processing (empty for now)](https://github.com/DeusExAliquo/PythonCollection/blob/main/AIDataProcessing/README.md)
+#### [AI & Data Processing](https://github.com/DeusExAliquo/PythonCollection/blob/main/AIDataProcessing/README.md)
 
 #### [Database (empty for now)](https://github.com/DeusExAliquo/PythonCollection/blob/main/Database/README.md)
 
