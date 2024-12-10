@@ -8,6 +8,6 @@
 
 ### [Pytorch](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge/AIDataProcessing/Pytorch)
 
-### [Sklearn](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge/AIDataProcessingSklearn)
+### [Sklearn](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge/AIDataProcessing/Sklearn)
 
 ### [Tensorflow and Tensorboard](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge/AIDataProcessing/TensorflowTensorboard)
