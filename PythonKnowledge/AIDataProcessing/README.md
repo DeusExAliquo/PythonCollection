@@ -2,12 +2,12 @@
 
 ## I will try to cover as much as possible, from data analysis and preprocessing to model building.
 
-### [Keras](https://github.com/DeusExAliquo/Knowledge/PythonKnowledge/blob/main/AIDataProcessing/Keras/README.md)
+### [Keras](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge/AIDataProcessing/Keras)
 
-### [Pandas](https://github.com/DeusExAliquo/Knowledge/PythonKnowledge/blob/main/AIDataProcessing/Pandas/README.md)
+### [Pandas](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge/AIDataProcessing/Pandas)
 
-### [Pytorch](https://github.com/DeusExAliquo/Knowledge/PythonKnowledge/blob/main/AIDataProcessing/Pytorch/README.md)
+### [Pytorch](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge/AIDataProcessing/Pytorch)
 
-### [Sklearn](https://github.com/DeusExAliquo/Knowledge/PythonKnowledge/blob/main/AIDataProcessing/Sklearn/README.md)
+### [Sklearn](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge/AIDataProcessingSklearn)
 
-### [Tensorflow and Tensorboard](https://github.com/DeusExAliquo/Knowledge/PythonKnowledge/blob/main/AIDataProcessing/TensorflowTensorboard/README.md)
+### [Tensorflow and Tensorboard](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge/AIDataProcessing/TensorflowTensorboard)
