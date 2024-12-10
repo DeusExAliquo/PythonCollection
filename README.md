@@ -4,4 +4,4 @@
 
 #### [Python](https://github.com/DeusExAliquo/Knowledge/tree/main/PythonKnowledge)
 
-#### [Python](https://github.com/DeusExAliquo/Knowledge/tree/main/DevOpsKnowledge)
+#### [DevOps](https://github.com/DeusExAliquo/Knowledge/tree/main/DevOpsKnowledge)
