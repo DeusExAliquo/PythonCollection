@@ -1,5 +1,5 @@
-# PythonCollection
-## A collection of stuff I know in Python, cheatsheets and projects (I mostly have cheatsheets for now though)
+# PythonKnowledge
+## A bunch of stuff I know in Python, cheatsheets and projects (I mostly have cheatsheets for now though)
 ### Everything will be organized in subjects and sub-subjects, every subjects should have their own readme as well, if I remember they should have at least.
 
 #### [AI & Data Processing](https://github.com/DeusExAliquo/Knowledge/PythonKnowledge/blob/main/AIDataProcessing/README.md)
