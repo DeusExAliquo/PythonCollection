@@ -36,6 +36,6 @@ Docker is an essential tool for modern software development, offering portabilit
 
 ### [Little PDF cheatsheet](./DockerCheatsheet.pdf)
 
-### [Good french cheatsheet](https://www.hostinger.fr/tutoriels/cheat-sheet-docker)7
+### [Good french cheatsheet](https://www.hostinger.fr/tutoriels/cheat-sheet-docker)
 
-### [DOcket getting started](https://docs.docker.com/get-started/)
+### [Docker getting started](https://docs.docker.com/get-started/)
